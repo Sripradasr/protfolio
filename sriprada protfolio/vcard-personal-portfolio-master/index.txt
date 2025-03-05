@@ -1,0 +1,134 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = sriprada sr
+sriprada sr
+Web developer
+
+Show Contacts
+
+Email
+sripradaraghunath@gmail.com
+
+Phone
+7619149249
+
+Birthday
+APRIL 07, 2001
+
+Location
+Bangalore, karnataka, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm Creative Director and frontend developer from india working in web development . I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+
+# resume
+
+Resume
+
+Education
+East west institute of Technology
+2022 — 2024
+Masters of computer Application(MCA)-CGPA:8.0
+
+Sri siddhartha institute of Business Management
+2019 — 2022
+Bachelor of computer Application(BCA)-CGPA-7.6
+
+
+INTERNSHIP
+Frontend Web Developer
+Aug-2024 -  OCT-2024
+Aisyln Technologies pvt Ltd
+
+
+My skills
+
+Web design
+80%
+react developer
+70%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
